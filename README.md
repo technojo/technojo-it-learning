@@ -1,2 +1,2 @@
 # technojo-it-learning
-IT fundamentals
+This repository is my IT fundamentals mentoring repository.
